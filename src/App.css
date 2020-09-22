@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+ margin:100px auto;
+ padding: 20px auto;
+}
+
+.btn{
+  text-align: center;
+  margin:20px auto;
+align-content:space-between;
+padding:20px auto
+  
+}
+h1{
+  color:blueviolet
+}
